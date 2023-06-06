@@ -18,3 +18,6 @@ ssh -i ./keypair1.pem ubuntu@18.143.237.131
 
 # For running application
 sudo python3 Empapp.py
+
+# Accessing website only
+If you only need to access the website, enter http://18.143.237.131/ in any search engine will do
